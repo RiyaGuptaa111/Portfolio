@@ -112,9 +112,9 @@ section {
 .home .home-img img {
     position: relative;
     top: 3rem;
-    width: 390px;
-    height: 480px;
-    border-radius: 50%;
+    width: 280px;
+    height: 425px;
+    border-radius: 15%;
     cursor: pointer;
     transition: 0.4s ease-in-out;
     box-shadow: 2px 2px 21px 5px aqua;
@@ -250,7 +250,7 @@ span {
     
   }
   .About img{
-    height: 350px;
+    height: 425px;
     width: 290px;
     border: 1px solid aqua;
     box-shadow: 2px 2px 21px 5px aqua;
@@ -641,7 +641,7 @@ svg .fg{
   }
   .home-img img{
       width: 45px;
-      height: 45px;
+      height: 100px;
   }
 } 
 @media(max-width:920px){
@@ -732,7 +732,7 @@ svg .fg{
 
     .home .home-img img {
         width:220px;
-        height: 250px;
+        height: 350px;
     }
     .social-icons a{
         width: 50px;
